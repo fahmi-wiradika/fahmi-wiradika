@@ -5,7 +5,7 @@
 - 📫 How to reach me via email on fahmi.wiradika96@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like Basketball and spicy food
-- ✨ Visit my website for project documentation at https://fahmiwazu.github.io/docs-portfolio
+- ✨ Visit my website for project documentation https://fahmi-wiradika.github.io
 
 <!---
 fahmiwazu/fahmiwazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
