@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fahmi Wahyu Wiradika
 - 👀 I’m interested in Software Development Engineering in Test, Quality Assurance Automation, or a similar role
-- 🌱 I’m currently learning Playwright MCP and AI Integration for Test Automation Framework
-- 💞️ I’m looking to collaborate on building automation testing in Web, API and Application.
+- 🌱 I’m currently learning Docker and Jenkins Containerization for local CI/CD orchestrator (Newman, JMeter, Cypress, Playwright, etc)
+- 💞️ I’m looking to collaborate on building automation testing in Web, API and Mobile Apps
 - 📫 How to reach me via email at fahmi.wiradika96@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like Basketball and spicy food
